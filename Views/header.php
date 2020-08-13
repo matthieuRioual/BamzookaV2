@@ -1,5 +1,5 @@
 <!--Navbar -->
-<nav class="mb-1 navbar navbar-expand-lg navbar-dark info-color text-white">
+<nav class="mb-1 navbar navbar-expand-lg navbar-dark info-color text-white red">
 <i class="fab fa-bootstrap fa-3x" class="d-inline-block align-middle" alt="B logo"></i>
       <span class="ml-3">BAMZOOKAV2</span>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4"

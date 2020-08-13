@@ -46,7 +46,8 @@
   <!-- Footer Elements -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+  <div class="footer-copyright text-center py-3">
+     <img src="Public/images/metadot.png" alt="metadot icon" class="mr-3"> © 2020 Copyright:
     <a href="https://metadot.com/"> metadot.com</a>
   </div>
   <!-- Copyright -->
