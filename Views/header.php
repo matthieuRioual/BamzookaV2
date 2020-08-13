@@ -1,25 +1,25 @@
 <!--Navbar -->
-<nav class="mb-1 navbar navbar-expand-lg navbar-dark info-color text-white red">
+<nav class="navbar navbar-expand-lg navbar-dark info-color text-white cyan">
 <i class="fab fa-bootstrap fa-3x" class="d-inline-block align-middle" alt="B logo"></i>
       <span class="ml-3">BAMZOOKAV2</span>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4"
     aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <span class="navbar-toggler-icon"></span> 
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent-4">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="/views/home.php">
+        <a class="nav-link" href="index.php?page=home">
            HOME
           <span class="sr-only">(current)</span>
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/views/pricing.php">
+        <a class="nav-link" href="index.php?page=pricing">
           Pricing</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/views/contactUs.php">
+        <a class="nav-link" href="index.php?page=contact">
           Contact us</a>
       </li>
       <li class="nav-item dropdown">

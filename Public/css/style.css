@@ -21,3 +21,20 @@ li a.nav-link {
   width: 100%;
   transition: width 0.1s;
 }
+
+.content {
+  margin: 0px;
+}
+
+.blockquote {
+  margin: 0px 30% 0px 30%;
+  text-align: justify;
+}
+
+.content .form-inline {
+  display: block;
+}
+
+.page-footer {
+  margin: 0px;
+}
