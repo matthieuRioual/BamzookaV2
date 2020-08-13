@@ -2,7 +2,7 @@
 <footer class="page-footer font-small cyan darken-3">
 
   <!-- Footer Elements -->
-  <div class="container">
+  <div class="container" id="footer">
 
     <!-- Grid row-->
     <div class="row">
