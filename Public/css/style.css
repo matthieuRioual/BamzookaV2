@@ -22,7 +22,7 @@ li a.nav-link {
   transition: width 0.1s;
 }
 
-.content {
+#top-content {
   margin: 0px;
 }
 
