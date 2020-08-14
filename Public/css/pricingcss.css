@@ -32,7 +32,7 @@
   background-color: #ffffff;
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.075);
   border-top: 2px solid #5ea4f3;
-  padding: 10px;
+  padding: 20px;
   overflow: hidden;
   position: relative;
 }
@@ -58,12 +58,6 @@
   right: -42px;
   top: 20px;
   padding-top: 7px;
-}
-
-.pricing-table .item p {
-  text-align: center;
-  margin-top: 20px;
-  opacity: 0.7;
 }
 
 .pricing-table .features .feature {
@@ -95,5 +89,13 @@ li[class*="nonpoint"] {
 }
 
 .features ul {
-  padding-inline-start: 20px;
+  padding-left: 0px;
+}
+
+.features ul li {
+  font-size: small;
+}
+
+.price h4 span {
+  font-size: 0.5em;
 }
