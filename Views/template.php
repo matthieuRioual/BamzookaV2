@@ -7,6 +7,10 @@
 
     <link rel="stylesheet" href="Public/css/style.css" />
     <link rel="stylesheet" href="Public/css/pricingcss.css" />
+    <!-- Favicon -->
+
+    <link rel="shortcut icon" type="image/x-icon" href="Public/images/favicon.ico">
+
 
     <!-- Font Awesome -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
