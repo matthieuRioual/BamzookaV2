@@ -1,13 +1,13 @@
 <!--Navbar -->
-<nav class="navbar navbar-expand-lg navbar-dark info-color text-white cyan">
-<i class="fab fa-bootstrap fa-3x" class="d-inline-block align-middle" alt="B logo"></i>
-      <span class="ml-3">BAMZOOKAV2</span>
+<nav class="navbar navbar-expand-lg navbar-dark text-white cyan ">
+    <i class="fab fa-bootstrap fa-3x" class="d-inline-block align-middle" alt="B logo"></i>
+      <span class="ml-3 navbar-brand">BAMZOOKAV2</span>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4"
-    aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span> 
+    aria-controls="navbarSupportedContent-4" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>  
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent-4">
-    <ul class="navbar-nav ml-auto">
+    <ul class="nav navbar-nav ml-auto">
       <li class="nav-item active">
         <a class="nav-link" href="index.php?page=home">
            HOME

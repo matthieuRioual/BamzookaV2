@@ -5,7 +5,7 @@
 <section class="m-4">
 
     <!--Section heading-->
-    <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us<img class =" pull-left img-responsive img-rounded pl-3" src="Public/images/postmail.png" /></h2>
+    <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us<img class =" pull-left img-responsive img-rounded pl-3" src="Public/images/postmail.png" width="100" height="auto"/></h2>
     <!--Section description-->
     <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact us directly. Our team will come back to you within
         a matter of hours to help you.</p>
@@ -13,7 +13,7 @@
     <div class="row">
 
         <!--Grid column-->
-        <div class="col-md-9 mb-md-0 mb-5">
+        <div class="col-md-9 col-sm-12 mb-md-0 mb-5">
             <form id="contact-form" name="contact-form" action="mail.php" method="POST">
 
                 <!--Grid row-->
@@ -21,7 +21,8 @@
 
                     <!--Grid column-->
                     <div class="col-md-6">
-                        <div class="md-form mb-0">
+                    
+                        <div class="md-form mb-0">                   
                             <input type="text" id="name" name="name" class="form-control">
                             <label for="name" class="">Your name</label>
                         </div>
@@ -52,14 +53,15 @@
                 <!--Grid row-->
 
                 <!--Grid row-->
-                <div class="row">
+                <div class="row mt-3">
 
                     <!--Grid column-->
                     <div class="col-md-12">
 
-                        <div class="md-form">
-                            <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
-                            <label for="message">Your message</label>
+                        <div class="form-group active-pink-textarea">
+                        <i class="fas fa-angle-double-right prefix mr-2"></i>
+                        <label for="message">Your message</label>
+                            <textarea type="text" id="message" name="message" rows="5" class="form-control md-textarea" ></textarea>
                         </div>
 
                     </div>
