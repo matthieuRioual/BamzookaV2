@@ -10,7 +10,7 @@
             </div>
             <div class="row justify-content-md-center pb-3">
                 <div class="col-md-6 col-lg-4">
-                    <div class="item">
+                    <div class="item mt-2">
                         <div class="heading">
                             <h3>Standart</h3>
                         </div>
@@ -18,14 +18,14 @@
                         <p style="opacity: 0.7;text-align: center">$3 per additional user</p>
                         <div class="features">
                         <ul>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Unlimited checklists</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Unlimited templates</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Process documentation</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Checklist reports</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Recurring schedulers</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Dynamic due date</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Live update</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Log in with google</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Unlimited checklists<img src="/assets/bam/media/info.png" width="18" class="trigger-popover float-right img-muted" data-toggle="popover" data-trigger="hover" title="" data-content="Create logic jumps:. Entire checklist sections can be hidden or shown based on user input." data-original-title="Conditional logic"></li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Unlimited templates<img src="/assets/bam/media/info.png" width="18" class="trigger-popover float-right img-muted" data-toggle="popover" data-trigger="hover" title="" data-content="Create logic jumps:. Entire checklist sections can be hidden or shown based on user input." data-original-title="Conditional logic"></li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Process documentation<img src="/assets/bam/media/info.png" width="18" class="trigger-popover float-right img-muted" data-toggle="popover" data-trigger="hover" title="" data-content="Create logic jumps:. Entire checklist sections can be hidden or shown based on user input." data-original-title="Conditional logic"></li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Checklist reports<img src="/assets/bam/media/info.png" width="18" class="trigger-popover float-right img-muted" data-toggle="popover" data-trigger="hover" title="" data-content="Create logic jumps:. Entire checklist sections can be hidden or shown based on user input." data-original-title="Conditional logic"></li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Recurring schedulers<img src="/assets/bam/media/info.png" width="18" class="trigger-popover float-right img-muted" data-toggle="popover" data-trigger="hover" title="" data-content="Create logic jumps:. Entire checklist sections can be hidden or shown based on user input." data-original-title="Conditional logic"></li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Dynamic due date<img src="/assets/bam/media/info.png" width="18" class="trigger-popover float-right img-muted" data-toggle="popover" data-trigger="hover" title="" data-content="Create logic jumps:. Entire checklist sections can be hidden or shown based on user input." data-original-title="Conditional logic"></li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Live update<img src="/assets/bam/media/info.png" width="18" class="trigger-popover float-right img-muted" data-toggle="popover" data-trigger="hover" title="" data-content="Create logic jumps:. Entire checklist sections can be hidden or shown based on user input." data-original-title="Conditional logic"></li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Log in with google<img src="/assets/bam/media/info.png" width="18" class="trigger-popover float-right img-muted" data-toggle="popover" data-trigger="hover" title="" data-content="Create logic jumps:. Entire checklist sections can be hidden or shown based on user input." data-original-title="Conditional logic"></li>
                             </ul>
                         </div>
                         <div class="price">
@@ -35,7 +35,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
-                    <div class="item">
+                    <div class="item mt-2">
                         <div class="ribbon">50% off for <br> non profit</div>
                         <div class="heading">
                             <h3>Business</h3>
