@@ -4,7 +4,7 @@
 
 <section class="homecontent">
     <div class="text-white cyan darken-3 text-center mx-auto" id ="top-content">
-        <h1 class="pt-5 mx-5 display-3">Automate your workflow with reusable checklists</h1>
+        <h1 class="pt-5 display-3">Automate your workflow with reusable checklists</h1>
         <h2 class="px-5">
         Create checklists, schedule them, assign them to your team, watch progress in real-time.
         </h2>

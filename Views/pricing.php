@@ -18,14 +18,14 @@
                         <p style="opacity: 0.7;text-align: center">$3 per additional user</p>
                         <div class="features">
                         <ul>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Conditional logic</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Calendar view</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Enforced task order</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>User input validation with pass/fail</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Email & phone support with TX staff</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>99.9% uptime SLA</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Dedicated customer success manager</li>
-                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Flowers once a week</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Unlimited checklists</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Unlimited templates</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Process documentation</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Checklist reports</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Recurring schedulers</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Dynamic due date</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Live update</li>
+                                <li class="nonpoint"><i class="far fa-check-circle mr-2"></i>Log in with google</li>
                             </ul>
                         </div>
                         <div class="price">

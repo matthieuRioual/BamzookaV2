@@ -1,6 +1,6 @@
 <!-- Footer -->
-<footer class="page-footer font-small cyan darken-3">
-
+<footer class="page-footer font-small cyan darken-3 text-center">
+<p class="pt-2 mb-0" style="font-family: cursive;">Follow us on our multiple device</p>
   <!-- Footer Elements -->
   <div class="container" id="footer">
 
@@ -8,7 +8,7 @@
     <div class="row">
 
       <!-- Grid column -->
-      <div class="col-md-12 py-5">
+      <div class="col-md-12">
         <div class="mb-5 flex-center">
 
           <!-- Facebook -->
